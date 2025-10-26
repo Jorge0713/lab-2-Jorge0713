@@ -15,17 +15,21 @@ Ingrese dos enteros: 22 8
 
    | Entero 1 | Entero 2 | Expresión        | Salida |
    | -------- | -------- | ---------------- | ------ |
-   | 73       | 22       | cout << 73 % 22; |        |
-   | 0        | 100      | cout << 0 % 100; |        |
-   | 100      | 0        | cout << 100 % 0; |        |
-   | -3       | 3        | cout << -3 % 3;  |        |
-   | 9        | 4.5      | cout << 9 % 4.5; |        |
-   | 16       | 2        | cout << 16 % 2;  |        |
+   | 73       | 22       | cout << 73 % 22; |   7    |
+   | 0        | 100      | cout << 0 % 100; |    0   |
+   | 100      | 0        | cout << 100 % 0; |Excepción|
+   | -3       | 3        | cout << -3 % 3;  |    0   |
+   | 9        | 4.5      | cout << 9 % 4.5; | Error  |
+   | 16       | 2        | cout << 16 % 2;  |    0   |
 
 2. ¿Qué pasa si colocamos un punto y coma (;) después del final de la expresión de condición de una declaración if?
+
+Error de sintaxis.
 
 3. Modifique el programa para determinar si un número ingresado es par o impar. [Nota: Ahora, el usuario necesita ingresar solo un número.]
 
 ## ✅ Resultado
 
 (Añadir captura de pantalla del resultado de la ejecución)
+
+![alt text](image.png)

@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre:Jorge Rafael Flores Gallegos
+- Matrícula: S24016709
+- Fecha: 24/10/2025
 
 ## 🎯 Objetivos
 

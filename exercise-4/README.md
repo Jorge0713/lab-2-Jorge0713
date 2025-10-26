@@ -5,5 +5,5 @@
 Escriba un programa de C ++ que lea tres números del teclado y encuentre el número del medio entre los tres números. Suponga que los tres números son diferentes. [Sugerencia: encuentre primero los valores más grandes y más pequeños.]
 
 ## ✅ Resultado
-
+![alt text](image.png)
 (Añadir captura de pantalla del resultado de la ejecución)
